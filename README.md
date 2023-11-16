@@ -24,7 +24,7 @@ application
 6. Run the command npm run start to start the application locally
 7. In your browser, navigate the to the URL that the server is hosted on (usually
 localhost:3000)
-8. Enjoy J
+8. Enjoy
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
