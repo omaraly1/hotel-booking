@@ -12,6 +12,20 @@ yarn dev
 pnpm dev
 ```
 
+1. Create the database in MySQL workbench using the provided code in hotel.sql
+2. Insert all the sample data provided in the file, as well as the indexes, triggers, and views,
+etc.
+3. Navigate to /lib/db.js, are here fill in the relevant information relating to your
+MySQL server connection, including username, password, port, etc.
+4. In terminal or cmd, navigate to /hotel, and run npm install to install all project
+dependencies.
+5. Run the command npm run build to compile a production version of the
+application
+6. Run the command npm run start to start the application locally
+7. In your browser, navigate the to the URL that the server is hosted on (usually
+localhost:3000)
+8. Enjoy J
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
